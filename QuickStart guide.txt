@@ -1,0 +1,20 @@
+We used google collab for training the model.
+
+If you prefer to run the notebook locally, follow these steps:
+
+1. Install Jupyter Notebook: 
+	If you don’t have Jupyter Notebook installed, install it using pip: 
+	pip install notebook
+2. Clone the Repository:
+	Clone your GitHub repository to your local machine: 
+	git clone https://github.com/Akkhar1/Political-Bias-Detection.git
+	cd Political-Bias-Detection
+3. Install Dependencies:
+	pip install -r requirements.txt
+	python -m spacy download en_core_web_sm
+4. Run the Notebook:
+	jupyter notebook
+
+Open the notebook file Political_News_Bias_Detection.ipynb in your browser.
+
+Run each cell by clicking the Play button.

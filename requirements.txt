@@ -1,0 +1,11 @@
+torch
+torch-geometric
+transformers
+spacy
+scikit-learn
+pandas
+numpy
+matplotlib
+networkx
+kagglehub
+tqdm
