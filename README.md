@@ -17,7 +17,7 @@ To set up the project, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/political-news-bias-detection.git
-cd political-news-bias-detection
+git clone https://github.com/Akkhar1/Political-Bias-Detection.git
+cd Political-Bias-Detection
 ```
 Run the QuickStart_dependencies.sh script to set up dependencies and download the project:
